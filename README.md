@@ -10,7 +10,7 @@
 ![Static](https://img.shields.io/badge/type-Static%20HTML-orange)
 ![Made in](https://img.shields.io/badge/Made%20in-Indonesia-red)
 
-[🚀 Live Demo](https://mozes-sugiarto.github.io/email-threat-analyzer/) • [📖 Documentation](#-usage) • [🐛 Report Bug](https://github.com/mozes-sugiarto/email-threat-analyzer/issues)
+[🚀 Live Demo](https://m-sugiarto.github.io/email-threat-analyzer/) • [📖 Documentation](#-usage) • [🐛 Report Bug](https://github.com/mozes-sugiarto/email-threat-analyzer/issues)
 
 </div>
 
